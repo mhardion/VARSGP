@@ -12,3 +12,5 @@ Alternatively, all requirements can be installed using the following:
 ```
 pip install -r requirements.txt
 ```
+
+Some of the code was adapted from [this notebook](https://notebook.community/jrg365/gpytorch/examples/05_Scalable_GP_Regression_Multidimensional/SGPR_Example_CUDA), which didn't take the added trace term into account.
